@@ -2,7 +2,7 @@ import React from 'react'
 
 function NavBar() {
   return (
-    <div>NavBar
+    <div>
         <ul>
             <li>1</li>
             <li>2</li>

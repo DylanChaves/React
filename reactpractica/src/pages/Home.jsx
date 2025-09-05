@@ -1,18 +1,16 @@
 import React from 'react'
-import NavBar from '../components/NavBar'
+import Footer from '../components/Footer/Footer'
 
 function Home() {
 
 
   return (
-    <div>Home
+    <div>
 
-        <NavBar/>
+     <Footer/>
 
     </div>
   )
 }
-
-Home.propTypes = {}
 
 export default Home

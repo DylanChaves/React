@@ -1,20 +1,18 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
-import Contact from './pages/Contact'
-import Home from './pages/Home'
 
+import './App.css'
+
+import Routing from './routes/Routing'
+import Regritro from './pages/Regritro'
 function App() {
   
 
   return (
     <>
       <div>
-      <Home/>
+      < Regritro />
       
       </div>
-      <div><Contact/></div>
+      
     </>
   )
 }

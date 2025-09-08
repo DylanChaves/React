@@ -11,6 +11,8 @@ function FormonRegistro() {
 
     }
 
+    /*hola  */
+
     const Modal = useRef(null)
 
     const abrirModal =() =>{
